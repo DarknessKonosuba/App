@@ -1,0 +1,5 @@
+Proyecto de Aplicacion para ser utilizado en la gestion 
+de un comercio de comidas rapidas.
+Programado por:
+Moreno Melisa
+Copyright Julio 2021
